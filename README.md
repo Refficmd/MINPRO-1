@@ -4,12 +4,22 @@
 #FLOWCHART
 ![Untitled Diagram](https://github.com/user-attachments/assets/66a8e357-656b-4da0-860e-d709f5b1e03a)
 
+
 #OUTPUT AWAL SAMPAI AKHIR
+
+
 ![image](https://github.com/user-attachments/assets/11109de5-0e64-4d8f-a6ba-53873f86a1a6)
+
+
+
 
 ##PENJELASAN OUTPUT
 Pelanggan akan diarahkan untuk mengisi total harga barang, dan total barang. 
+
+
 ![image](https://github.com/user-attachments/assets/f76796ce-88db-4145-9e6b-fe8363c62fc5)
+
+
 jika harga total barang mencapai atau melebihi Rp.250000, pelangaan akan mendapatkan diskon
 
 jika pembelajaan kurang dari Rp.250000, pelanggan tidak mendapat diskon
