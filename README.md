@@ -23,12 +23,18 @@ Pelanggan akan diarahkan untuk mengisi total harga barang, dan total barang.
 jika harga total barang mencapai atau melebihi Rp.250000, pelangaan akan mendapatkan diskon
 
 jika pembelajaan kurang dari Rp.250000, pelanggan tidak mendapat diskon
+
+
 ![image](https://github.com/user-attachments/assets/7572314b-8d9b-4338-959a-c3f75aba9efc)
 
 disini juga ada program, apakah pengguna ingin menghitung ulang atau tidak.
+
+
 ![image](https://github.com/user-attachments/assets/8ec62cba-ca8c-4f9f-87ec-dffe2b1d9dad)
 
 jika pengguna tidak ingin menghitung ulang, maka program selesai 
+
+
 ![image](https://github.com/user-attachments/assets/13f45712-88b4-4cd4-9af2-dee9e499ed75)
 
 
